@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif; 
+    margin: 50px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 70px;
+}
+
+.twist{
+    background-color: rgba(255,255,255, 0.5);
+    background-image: none;
+    margin:10px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+h2{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(104, 104, 104);
+}
+
+
+/* https://www.youtube.com/watch?v=JwyjHyGOgmg */
+div{
+    background-image:url('../image/emilia-home.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 900px;
+}
+
+.espaciado{
+    height: 80px;
+    background-image: none;
+}
+
+.espaciado1{
+    height: 30px;
+    background-image: none;
+}
+    
